@@ -1,2 +1,2 @@
 # SampleAndroidCode
-Sample Android code
+Sample Android code for nested dynamic fragments.
